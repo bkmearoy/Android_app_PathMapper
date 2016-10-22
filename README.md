@@ -8,7 +8,7 @@ Path Mapper was original an idea for an app tha would help students find buildin
 N.B This is patial codes, just for learnig purposes 
 
 Team members:
-Bereket Tew
-Loc Huynh
-Zac Sema 
+Bereket Tew,
+Loc Huynh,
+Zac Sema, 
 Maual Vargas 
